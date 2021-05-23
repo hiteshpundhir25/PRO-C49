@@ -1,0 +1,227 @@
+h1{
+    color: #22bb9a;
+}
+
+.abouth1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background: linear-gradient(70deg, #143866, #d608c5);
+    color: #ffffff;
+    margin: 0px;
+}
+
+.home{
+    border: hidden;
+    margin-left: 250px;
+    padding: 30px;
+}
+
+.pana{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: #ffffff;
+}
+
+.cham{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: #ffffff;
+}
+
+.cica{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: #ffffff;
+}
+
+.pige{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: yellow;
+    text-decoration: none;
+}
+a:visited{
+    color: #ffffff;
+}
+
+.cam{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: #ffffff;
+}
+
+.ted{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: #ffffff;
+}
+
+.panda{
+    border: hidden;
+    width: 200px;
+    display: flex;
+    position: relative;
+}
+.panda:hover{
+    transform: scale(1.3);
+}
+.pantex{
+    position: absolute;
+}
+
+.chamI{
+    border: hidden;
+    width: 200px;
+    display: flex;
+}
+.chamI:hover{
+    transform: scale(1.3);
+}
+.chamtex{
+    position: absolute;
+}
+
+.cic{
+    border: hidden;
+    width: 200px;
+    display: flex;
+}
+.cic:hover{
+    transform: scale(1.3);
+}
+.cictex{
+    position: absolute;
+}
+
+.pig{
+    border: hidden;
+    width: 200px;
+    display: flex;
+}
+.pig:hover{
+    transform: scale(1.3);
+}
+.pigtex{
+    position: absolute;
+}
+
+.tad{
+    border: hidden;
+    width: 200px;
+    display: flex;
+}
+.tad:hover{
+    transform: scale(1.3);
+}
+.tedtex{
+    position: absolute;
+}
+
+.came{
+    border: hidden;
+    width: 200px;
+    display: flex;
+}
+.came:hover{
+    transform: scale(1.3);
+}
+.cametex{
+    position: absolute;
+}
+
+.about *{
+    display: flex;
+    border: hidden;
+    width: 70px;
+    margin-left: 30px;
+}
+
+.tex {
+    color: blue;
+    margin: 10px;
+}
+
+.text{
+   
+    transition: all 0.5s ease-in;
+}
+.text:hover{
+    
+    transition: all 0.5s ease-out;
+}
+
+.text2{
+   
+    transition: all 0.5s ease-in;
+}
+.text2:hover{
+    
+    transition: all 0.5s ease-out;
+}
+
+.pantext{
+   
+    transition: all 0.5s ease-in;
+}
+.pantext:hover{
+    
+    transition: all 0.5s ease-out;
+}
+
+.pigtext{
+   
+    transition: all 0.5s ease-in;
+}
+.pigtext:hover{
+    
+    transition: all 0.5s ease-in;
+}
+
+.teddytex{
+   
+    transition: all 0.5s ease-in;
+}
+.teddytex:hover{
+    
+    transition: all 0.5s ease-in;
+}
+
+.camtex{
+   
+    transition: all 0.5s ease-in;
+}
+.camtex:hover{
+   
+    transition: all 0.5s ease-in;
+}
